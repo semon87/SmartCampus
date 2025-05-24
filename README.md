@@ -1,0 +1,2 @@
+# SmartCampus
+team: cuet.net
